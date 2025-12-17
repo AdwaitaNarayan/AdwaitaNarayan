@@ -2,15 +2,17 @@
 <!--  GitHub Profile README -->
 <!-- ===================== -->
 
-<h1 align="center">Hey 👋, I'm Adwaita</h1>
-<h3 align="center">Backend • AI • Automation</h3>
-
 <p align="center">
-  <a href="mailto:adwdaitanarayan8@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Adwaita+Narayan+Behera;AI+%7C+Backend+Engineer;LLMs+%E2%80%A2+FastAPI+%E2%80%A2+Automation;Building+Intelligent+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=chatbot&logoColor=00F5FF"/>
+</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" /> </p>
 ---
 
 ## 🚀 About Me
