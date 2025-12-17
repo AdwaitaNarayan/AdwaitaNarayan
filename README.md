@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=chatbot&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=chatbot&logoColor=00F5FF"/>
 </p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" /> </p>
 ---
