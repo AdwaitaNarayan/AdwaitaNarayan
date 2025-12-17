@@ -12,44 +12,146 @@
   <img src="https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=chatbot&logoColor=00F5FF"/>
 </p>
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" /> </p
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+<!-- ===================== -->
+<!--       About Me        -->
+<!-- ===================== -->
+
+<div align="center" style="padding: 2.5rem 1rem; background: linear-gradient(180deg, #0d1117 0%, #0b0f14 100%); border-radius: 14px;">
+
+  <h2 style="
+    color:#00F5FF;
+    font-size: 2rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+  ">
+    About Me
+  </h2>
+
+  <p style="
+    color:#9aa4ad;
+    max-width: 820px;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 1.8rem;
+  ">
+    I design and build <span style="color:#00F5FF; font-weight:600;">backend systems</span> and
+    <span style="color:#00F5FF; font-weight:600;">AI-powered applications</span> that are
+    production-ready, scalable, and automation-first.<br/>
+    I enjoy working close to <span style="color:#c7d1db;">data, APIs, and models</span> — turning
+    ideas into systems that ship and scale.
+  </p>
+
+  <!-- Badges -->
+  <div style="
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:10px;
+    margin-bottom:1.6rem;
+  ">
+    <img src="https://img.shields.io/badge/Python--First-0b0f14?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/Backend%20Engineering-0b0f14?style=for-the-badge&logo=serverfault&logoColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/AI%20%26%20LLMs-0b0f14?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/Automation--Driven-0b0f14?style=for-the-badge&logo=githubactions&logoColor=00F5FF"/>
+  </div>
+
+  <!-- Skill Line -->
+  <p style="
+    color:#8b949e;
+    font-size:0.95rem;
+    letter-spacing:0.03em;
+    line-height:1.8;
+    max-width:850px;
+  ">
+    💻 Python-first backend developer &nbsp; • &nbsp;
+    🧠 AI/ML & LLM integration &nbsp; • &nbsp;
+    ⚙️ APIs, databases & automation &nbsp; • &nbsp;
+    🌱 Always learning, always shipping
+  </p>
+
+  <div style="
+    margin-top:1.8rem;
+    color:#00F5FF;
+    font-size:1.05rem;
+    letter-spacing:0.08em;
+  ">
+    Building systems that think, scale, and ship 🚀
+  </div>
+
+</div>
+
+<!-- ===================== -->
+<!--      Tech Stack       -->
+<!-- ===================== -->
+
+<h2 align="center" style="color:#00F5FF;">🛠 Tech Stack</h2>
+
+<p align="center" style="color:#9aa4ad;">
+Building scalable backends & intelligent systems with clean architecture
+</p>
+
 ---
 
-## 🚀 About Me
-
-I build **backend systems and AI-powered applications** that are practical, scalable, and automation-focused.  
-I enjoy working close to data, APIs, and models — turning ideas into working software.
-
-- 💻 Python-first backend developer  
-- 🧠 AI/ML + LLM integration enthusiast  
-- ⚙️ REST APIs, databases & automation  
-- 🌱 Always learning, always shipping  
+### 💡 Core Foundations
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### ⚙️ Backend & API Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=databricks&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Pydantic-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+</p>
 
-### 💡 Core
-- **Python**, SQL  
-- Object-Oriented Programming  
-- RESTful API Design  
-
-### ⚙️ Backend & APIs
-- Flask, FastAPI  
-- SQLAlchemy, Pydantic  
-- PostgreSQL, MySQL  
-
-### 🤖 AI / ML
-- TensorFlow, Keras, scikit-learn  
-- LangChain, Transformers  
-- LLM fine-tuning & RAG pipelines  
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code, Jupyter  
-- Linux-friendly workflows  
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F5FF"/>
+</p>
 
 ---
+
+### 🤖 AI / ML & LLM Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00F5FF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
+</p>
+
+---
+
+### 🧰 Developer Tools & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00F5FF"/>
+</p>
+
+---
+
+<p align="center" style="color:#00F5FF;">
+⚡ Clean code • Scalable APIs • Intelligent Automation
+</p>
+
 
 ## 🔥 What I’m Good At
 
@@ -103,22 +205,18 @@ I enjoy working close to data, APIs, and models — turning ideas into working s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdwaitaNarayan&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdwaitaNarayan&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
 ## ☕ Fun Fact
 
 > I enjoy building systems that **actually get used**, not just trained 😄
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider starring a repo!
+  ⭐ If you like my work, consider starring a repo!🌐 Connect With Me
+<p align="center"> <a href="mailto:adwdaitanarayan8@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a> <a href="https://github.com/AdwaitaNarayan"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a> </p>
 </p>
