@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=chatbot&logoColor=00F5FF"/>
 </p>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" /> </p
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>  -->
 
 <!-- ===================== -->
 <!--       About Me        -->
