@@ -37,192 +37,80 @@ Currently, I work as an **AI Developer at Hirekarma**, where I develop AI-driven
 
 I enjoy solving real-world problems through clean backend architecture, efficient data pipelines, and practical AI integration — with a strong emphasis on maintainability, performance, and scalability.
 
-### Core Interests
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td width="45%">
-        <h4>Backend System Design</h4>
-        <sub>Designing clean, scalable backend architectures with FastAPI, Flask, and SQL databases.</sub>
-      </td>
-      <td width="45%">
-        <h4>AI-powered Automation</h4>
-        <sub>Building OCR, document processing, and workflow automation pipelines using AI/ML.</sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="45%">
-        <h4>LLM Applications</h4>
-        <sub>RAG systems, embeddings, and QA/chat interfaces for real-world products.</sub>
-      </td>
-      <td width="45%">
-        <h4>Database-driven Systems</h4>
-        <sub>Designing robust data models and query patterns with PostgreSQL and SQLAlchemy.</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-I'm always open to building impactful products and collaborating on meaningful engineering challenges.
-
-## 🔨Tech Stack
-
-<div align="center">
-
-### 🌳 Tech Ecosystem & Recursive Stack
-
-```
-♚️ CORE FOUNDATIONS♚️
-│
-├─🐝 Python
-│││ └─ Data Processing | Backend Logic
-│
-├─💯 TypeScript
-│││ └─ Type Safety | Frontend Integration
-│
-├─📄 SQL
-│││ └─ Query Optimization | Data Modeling
-│
-├─📋 OOP & Design Patterns
-│││ └─ Architecture | Scalability
-└─ REST & gRPC
-└─ API Communication
-
-⚡ BACKEND LAYER
-│
-├─🚀 FastAPI
-│││ └─ High Performance Async APIs
-│
-├─💪 Flask
-│││ └─ Lightweight & Flexible
-│
-├─📋 SQLAlchemy
-│││ └─ ORM Magic
-│
-├─🔐 Pydantic
-│││ └─ Data Validation & Settings
-└─😀 Error Handling
-└─ Security & Auth
-
-🤖 AI/ML STACK
-│
-├─🗣️ LLM Frameworks
-│││ ├─ LangChain│││ OpenAI Integration
-│││ └─ Transformers│││ HuggingFace Models
-│
-├─🦫 Deep Learning
-│││ ├─ TensorFlow
-│││ └─ Keras
-│
-├─📈 ML Libraries
-│││ ├─ Scikit-learn
-│││ └─ Pandas & NumPy
-│
-└─🎯 RAG Pipelines
-│││ ├─ Vector Embeddings
-│││ └─ Semantic Search
-
-🛠️ DEVELOPMENT ECOSYSTEM
-│
-├─💾 Version Control
-│││ ├─ Git
-│││ └─ GitHub (CI/CD)
-│
-├─🖥️ Editors & IDEs
-│││ ├─ VS Code
-│││ └─ Jupyter Notebooks
-│
-├─💜 Docker & Containers
-│││ └─ Orchestration
-│
-└─🐧 Linux
-│││ └─ CLI & System Tools
-
-💾 DATABASES & STORAGE
-│
-├─🐘 PostgreSQL
-│││ └─ RDBMS | Advanced Queries
-│
-├─🐬 MySQL
-│││ └─ Scalable Relations
-│
-└─🔄 Vector Databases
-│││ └─ FAISS | Pinecone
-```
-
-</div>
 
 
-## 🔥 What I’m Good At
-
-- Designing **clean backend architectures**
-- Building **API-driven applications**
-- Automating **document & data workflows**
-- Integrating **AI/ML models into production**
-- Working with **LLMs for real-world use cases**
-
----
-
-## 🧪 Highlighted Work
-
-### 📄 Intelligent Document Processing
-> Automated PDF understanding using OCR + LLM pipelines  
-- Scalable text extraction  
-- Semantic search & chat with documents  
-- Retrieval-Augmented Generation (RAG)
-
-### 📊 Predictive Systems
-> Time-series forecasting & ML-driven insights  
-- Deep learning models  
-- End-to-end deployment  
-- Dashboard integration  
-
-### 🔠 Regional Language AI
-> Image-based character recognition system  
-- CNN architectures  
-- Model serving with APIs  
-- Real-world dataset handling  
-
----
-
-## 📈 Current Focus
-
-- Advanced **FastAPI backend systems**
-- **LLM-powered applications**
-- AI-assisted hiring & assessment tools
-- Writing cleaner, faster, more reliable code
-
----
-
-## 🤝 Open To
-
-- Backend / AI developer roles  
-- Internship & entry-level opportunities  
-- Open-source collaboration  
-- Learning from experienced engineers  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdwaitaNarayan&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdwaitaNarayan&theme=tokyonight&hide_border=true" /> </p>
-
----
-
-I build backend☕ Fun Fact
-
-> I enjoy building systems that **actually get used**, not just trained 😄
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" /> </p>
-
----
+<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AdwaitaNarayan&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdwaitaNarayan&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="center">
   ⭐ If you like my work, consider starring a repo!🌐 Connect With Me
 <p align="center"> <a href="mailto:adwdaitanarayan8@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a> <a href="https://github.com/AdwaitaNarayan"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a> </p>
 </p>
-100
-85
-35
+
+
+<!-- ===================== -->
+<!-- Top Languages -->
+<!-- ===================== -->
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitaNarayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
+<!-- ===================== -->
+<!-- Featured Repositories -->
+<!-- ===================== -->
+
+## 📚 Featured Repositories
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">SolviqAI - Career Assessment Platform</h3>
+        <p align="center">
+          <a href="https://github.com/AdwaitaNarayan/SolviqAI">
+            <img src="https://img.shields.io/badge/AI%2FML-Repository-00F5FF?style=for-the-badge&logo=github" alt="SolviqAI" />
+          </a>
+        </p>
+        <p align="center">AI-powered career guidance and recruitment platform with LLM-based assessments and job matching</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Document Processing System</h3>
+        <p align="center">
+          <a href="https://github.com/AdwaitaNarayan">
+            <img src="https://img.shields.io/badge/OCR%2FLLM-Repository-00F5FF?style=for-the-badge&logo=github" alt="Doc Processing" />
+          </a>
+        </p>
+        <p align="center">Financial document extraction with OCR, LLM, and multi-method validation</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ===================== -->
+<!-- Wakatime Stats -->
+<!-- ===================== -->
+
+## 📊 Wakatime Integration - Coding Statistics
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/018b9a29-28c0-4e85-b1e1-e3a9cc4ed64f/project/018b9a29-4b62-4fb5-a69d-20d7cc3e5c4a/badge.svg" alt="Wakatime Badge" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>📊 All Time Stats</h4>
+        <p>
+          <img src="https://wakatime.com/badge/user/018b9a29-28c0-4e85-b1e1-e3a9cc4ed64f" alt="Wakatime Stats" />
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h4>💡 Current Focus</h4>
+        <p>Full-Stack Development | AI/ML Integration | Backend Optimization</p>
+      </td>
+    </tr>
+  </table>
+</div>
