@@ -51,8 +51,6 @@ I enjoy solving real-world problems through clean backend architecture, efficien
 <!-- Top Languages -->
 <!-- ===================== -->
 
-## 📈 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitaNarayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
@@ -67,22 +65,42 @@ I enjoy solving real-world problems through clean backend architecture, efficien
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">SolviqAI - Career Assessment Platform</h3>
+        <h3 align="center">Machine Learning Projects</h3>
         <p align="center">
-          <a href="https://github.com/AdwaitaNarayan/SolviqAI">
+          <a href="https://github.com/AdwaitaNarayan/Machine-Learning-Projects">
             <img src="https://img.shields.io/badge/AI%2FML-Repository-00F5FF?style=for-the-badge&logo=github" alt="SolviqAI" />
           </a>
         </p>
-        <p align="center">AI-powered career guidance and recruitment platform with LLM-based assessments and job matching</p>
+        <p align="center" style="font-size: 13px;">Prediction, Detection and also Classification Models</p>
       </td>
       <td width="50%">
         <h3 align="center">Document Processing System</h3>
         <p align="center">
-          <a href="https://github.com/AdwaitaNarayan">
+          <a href="https://github.com/AdwaitaNarayan/Data_Analyst_AI_Agent">
             <img src="https://img.shields.io/badge/OCR%2FLLM-Repository-00F5FF?style=for-the-badge&logo=github" alt="Doc Processing" />
           </a>
         </p>
-        <p align="center">Financial document extraction with OCR, LLM, and multi-method validation</p>
+        <p align="center" style="font-size: 13px;">Financial document extraction with OCR, LLM, and multi-method validation</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Odia Character Recognition</h3>
+        <p align="center">
+          <a href="https://github.com/AdwaitaNarayan/Odia-Charecter-Recognition">
+            <img src="https://img.shields.io/badge/ML%2FCV-Repository-00F5FF?style=for-the-badge&logo=github" alt="OCR" />
+          </a>
+        </p>
+        <p align="center" style="font-size: 13px;">Deep learning based Odia script recognition and character classification</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Python DSA</h3>
+        <p align="center">
+          <a href="https://github.com/AdwaitaNarayan/Python-DSA">
+            <img src="https://img.shields.io/badge/DSA-Repository-00F5FF?style=for-the-badge&logo=github" alt="DSA" />
+          </a>
+        </p>
+        <p align="center" style="font-size: 13px;">Comprehensive Data Structures and Algorithms implementations in Python</p>
       </td>
     </tr>
   </table>
