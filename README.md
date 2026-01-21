@@ -38,22 +38,22 @@ Currently, I work as an **AI Developer at Hirekarma**, where I develop AI-driven
 I enjoy solving real-world problems through clean backend architecture, efficient data pipelines, and practical AI integration — with a strong emphasis on maintainability, performance, and scalability.
 
 
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AdwaitaNarayan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=E8E8E8&icon_color=00F5FF"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=AdwaitaNarayan&theme=dark&hide_border=true&background=0d1117"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AdwaitaNarayan&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdwaitaNarayan&theme=tokyonight&hide_border=true" /> </p>
 
-<p align="center">
-  ⭐ If you like my work, consider starring a repo!🌐 Connect With Me
-<p align="center"> <a href="mailto:adwdaitanarayan8@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5FF"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/> </a> <a href="https://github.com/AdwaitaNarayan"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a> </p>
-</p>
-
-
-<!-- ===================== -->
-<!-- Top Languages -->
-<!-- ===================== -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitaNarayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages" />
-</p>
 
 <!-- ===================== -->
 <!-- Featured Repositories -->
@@ -107,28 +107,30 @@ I enjoy solving real-world problems through clean backend architecture, efficien
 </div>
 
 <!-- ===================== -->
-<!-- Wakatime Stats -->
+<!-- Top Languages -->
 <!-- ===================== -->
 
-## 📊 Wakatime Integration - Coding Statistics
-
 <p align="center">
-  <img src="https://wakatime.com/badge/user/018b9a29-28c0-4e85-b1e1-e3a9cc4ed64f/project/018b9a29-4b62-4fb5-a69d-20d7cc3e5c4a/badge.svg" alt="Wakatime Badge" />
+  <img
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitaNarayan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=FFFFFF"
+  />
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>📊 All Time Stats</h4>
-        <p>
-          <img src="https://wakatime.com/badge/user/018b9a29-28c0-4e85-b1e1-e3a9cc4ed64f" alt="Wakatime Stats" />
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h4>💡 Current Focus</h4>
-        <p>Full-Stack Development | AI/ML Integration | Backend Optimization</p>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:adwdaitanarayan8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/adwaita-narayan-behera/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+  </a>
+
+  <a href="https://github.com/AdwaitaNarayan">
+    <img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+  </a>
+</p>
+
