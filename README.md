@@ -27,7 +27,7 @@
   border-radius: 14px;
 ">
 
-## \ud83d\udc4b About Me
+## About Me
 
 I'm **Adwaita Narayan Behera**, a Software Developer with a strong focus on **Python backend engineering and applied AI systems**.
 
@@ -37,7 +37,7 @@ Currently, I work as an **AI Developer at Hirekarma**, where I develop AI-driven
 
 I enjoy solving real-world problems through clean backend architecture, efficient data pipelines, and practical AI integration — with a strong emphasis on maintainability, performance, and scalability.
 
-### \ud83c\udfa9 Core Interests
+### Core Interests
 
 <div align="center">
 
@@ -68,73 +68,92 @@ I enjoy solving real-world problems through clean backend architecture, efficien
 
 I'm always open to building impactful products and collaborating on meaningful engineering challenges.
 
+## 🔨Tech Stack
 
-<!-- ===================== -->
-<!--      Tech Stack       -->
-<!-- ===================== -->
+<div align="center">
 
-<h2 align="center" style="color:#00F5FF;">🛠 Tech Stack</h2>
+### 🌳 Tech Ecosystem & Recursive Stack
 
-<p align="center" style="color:#9aa4ad;">
-Building scalable backends & intelligent systems with clean architecture
-</p>
+```
+♚️ CORE FOUNDATIONS♚️
+│
+├─🐝 Python
+│││ └─ Data Processing | Backend Logic
+│
+├─💯 TypeScript
+│││ └─ Type Safety | Frontend Integration
+│
+├─📄 SQL
+│││ └─ Query Optimization | Data Modeling
+│
+├─📋 OOP & Design Patterns
+│││ └─ Architecture | Scalability
+└─ REST & gRPC
+└─ API Communication
 
----
+⚡ BACKEND LAYER
+│
+├─🚀 FastAPI
+│││ └─ High Performance Async APIs
+│
+├─💪 Flask
+│││ └─ Lightweight & Flexible
+│
+├─📋 SQLAlchemy
+│││ └─ ORM Magic
+│
+├─🔐 Pydantic
+│││ └─ Data Validation & Settings
+└─😀 Error Handling
+└─ Security & Auth
 
-### 💡 Core Foundations
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
-</p>
+🤖 AI/ML STACK
+│
+├─🗣️ LLM Frameworks
+│││ ├─ LangChain│││ OpenAI Integration
+│││ └─ Transformers│││ HuggingFace Models
+│
+├─🦫 Deep Learning
+│││ ├─ TensorFlow
+│││ └─ Keras
+│
+├─📈 ML Libraries
+│││ ├─ Scikit-learn
+│││ └─ Pandas & NumPy
+│
+└─🎯 RAG Pipelines
+│││ ├─ Vector Embeddings
+│││ └─ Semantic Search
 
----
+🛠️ DEVELOPMENT ECOSYSTEM
+│
+├─💾 Version Control
+│││ ├─ Git
+│││ └─ GitHub (CI/CD)
+│
+├─🖥️ Editors & IDEs
+│││ ├─ VS Code
+│││ └─ Jupyter Notebooks
+│
+├─💜 Docker & Containers
+│││ └─ Orchestration
+│
+└─🐧 Linux
+│││ └─ CLI & System Tools
 
-### ⚙️ Backend & API Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=databricks&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Pydantic-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF"/>
-</p>
+💾 DATABASES & STORAGE
+│
+├─🐘 PostgreSQL
+│││ └─ RDBMS | Advanced Queries
+│
+├─🐬 MySQL
+│││ └─ Scalable Relations
+│
+└─🔄 Vector Databases
+│││ └─ FAISS | Pinecone
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F5FF"/>
-</p>
-
----
-
-### 🤖 AI / ML & LLM Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00F5FF"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00F5FF"/>
-</p>
-
----
-
-### 🧰 Developer Tools & Workflow
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00F5FF"/>
-</p>
-
----
-
-<p align="center" style="color:#00F5FF;">
-⚡ Clean code • Scalable APIs • Intelligent Automation
-</p>
+</div>
 
 
 ## 🔥 What I’m Good At
