@@ -34,7 +34,7 @@ Currently, I work as an **AI Developer at Hirekarma**, developing hiring automat
 I focus on **clean backend architecture, reliable APIs, and production-ready AI integration**.
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -45,7 +45,7 @@ I focus on **clean backend architecture, reliable APIs, and production-ready AI 
   </tr>
 </table>
 
----
+--->
 
 ## 🚀 Featured Projects
 
@@ -92,7 +92,7 @@ I focus on **clean backend architecture, reliable APIs, and production-ready AI 
   </tr>
 </table>
 
----
+<!---
 
 ## 🧠 Most Used Languages
 
@@ -100,7 +100,7 @@ I focus on **clean backend architecture, reliable APIs, and production-ready AI 
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdwaitaNarayan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=E8E8E8" />
 </p>
 
----
+--->
 
 ## 🌐 Connect With Me
 
