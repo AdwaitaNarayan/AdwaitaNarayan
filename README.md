@@ -17,11 +17,11 @@
 
 ---
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdwaitaNarayan&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" />
 </p>
 
---- -->
+
 
 ## 👨‍💻 About Me
 
