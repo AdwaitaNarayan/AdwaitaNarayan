@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Adwaita+Narayan+Behera;AI+%7C+Backend+Engineer;LLMs+%E2%80%A2+FastAPI+%E2%80%A2+Automation;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Adwaita+Narayan+Behera;AI+%7C+Backend+Engineer;LLMs+%E2%80%A2+FastAPI+%E2%80%A2+Automation;Building+Intelligent+Systems" />
 </p>
 
 ---
