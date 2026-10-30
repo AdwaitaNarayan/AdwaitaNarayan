@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🖥️ `who am i`
+## 🖥️ `whoami`
 
 ```bash
 $ whoami
@@ -45,17 +45,61 @@ I build **backend services and applied AI systems**: REST APIs with **FastAPI, S
 
 <br/>
 
-## 🧬 How I Build
+## 🧬 Pixlume Architecture
 
 ```mermaid
 flowchart LR
-    A[Next.js / React<br/>Frontend] -->|REST| B[FastAPI<br/>Backend]
-    B --> C[(PostgreSQL<br/>SQLAlchemy)]
-    B --> D[LLM / RAG<br/>LangChain + FAISS]
-    B --> E[Cloudinary<br/>Storage]
-    F[Nginx on AWS EC2] --> B
-    G[Vercel] --> A
+    U(["👤 User Browser"]) --> FE["Next.js Frontend<br/>hosted on Vercel"]
+    FE -- "REST / JSON<br/>(CORS enabled)" --> NG["Nginx<br/>reverse proxy"]
+
+    subgraph EC2 ["☁️ AWS EC2"]
+        NG --> API["FastAPI app<br/>app/main.py"]
+        API --> R["Routers<br/>/photos · /admin"]
+        R --> SV["Services<br/>business logic"]
+        SV --> ORM["SQLAlchemy Async ORM<br/>+ Pydantic schemas"]
+    end
+
+    ORM --> DB[("PostgreSQL<br/>photo metadata")]
+    AL["Alembic<br/>migrations"] -.-> DB
+    SV --> CL["Cloudinary<br/>high-res image storage"]
 ```
+
+<br/>
+
+## 🔍 Document Extraction Pipeline
+
+```mermaid
+flowchart LR
+    A["📄 Input document<br/>PDF / scanned image"] --> B["Text extraction<br/>PyMuPDF · PaddleOCR · PyTesseract"]
+    B --> C["Clean + normalise text"]
+    C --> D{"Keyword / pattern<br/>classifier"}
+
+    D --> T1["Accounting"]
+    D --> T2["Bookkeeping"]
+    D --> T3["Payroll"]
+    D --> T4["Audit"]
+    D --> T5["Tax Planning"]
+    D --> T6["Financial Reporting"]
+
+    T1 & T2 & T3 & T4 & T5 & T6 --> E["Field extractor<br/>per document type"]
+    E --> F["Validated structured JSON"]
+    F --> G[("Database / API response")]
+```
+
+<details>
+<summary><b>📋 Document types, trigger keywords and extracted fields</b></summary>
+<br/>
+
+| Type | Trigger keywords / patterns | Extracted fields |
+|---|---|---|
+| **Accounting** | Balance Sheet, P&L, Trial Balance, Debit, Credit, Ledger | Date, Assets, Liabilities |
+| **Bookkeeping** | Cash Book, Voucher, Day Book, Journal | Date, Narration, Amount |
+| **Payroll** | Salary Slip, Net Pay, PF, TDS, Employee | Month, Name, Net Salary |
+| **Audit** | Audit Report, Opinion, Findings, CA, Audit Observations | Company Name, Year, Opinion |
+| **Tax Planning** | Section 80C, Investment, Tax Saving, Taxable Income | Income, Tax Plan, Deductions |
+| **Financial Reporting** | Q1/Q2 Results, EPS, Revenue, Net Profit, Cash Flow | Period, Revenue, Net Profit |
+
+</details>
 
 <br/>
 
